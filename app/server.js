@@ -1,7 +1,7 @@
 /**
 * @fileoverview Class to get current config of project
 *
-* @author Cesar Rojas
+* @author Emanuel Jardines
 * @version 1.0.0
 */
 
